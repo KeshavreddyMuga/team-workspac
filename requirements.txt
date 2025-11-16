@@ -1,9 +1,0 @@
-Flask
-Flask-SQLAlchemy
-Flask-SocketIO
-python-socketio
-python-engineio
-eventlet
-Flask-Mail
-python-dotenv
-Werkzeug
